@@ -1,0 +1,12 @@
+{
+    "env": {
+        "DB_USER": "lucascg",
+        "DB_PASSWORD": "135lucas",
+        "DB_NAME": "test1",
+        "AXIOS_API_KEY": "AIzaSyDrj6kZ-7PSAeFqcA90GZHOhnBarXPdO8o", 
+        "JWT_KEY": "supersecretpasswordbro_dont_share"        
+    }
+}
+
+
+
